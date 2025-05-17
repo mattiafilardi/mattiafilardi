@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mattia</h1>
-<h3 align="center">I'm a frontend developer from Italy 🇮🇹</h3>
+<h3 align="center">I'm a frontend engineer from Italy 🇮🇹</h3>
 
 - 🧑‍💻 I’m currently working at **Belka**
-
-- 🌱 I’m currently learning **Tailwind CSS, Three.js**
 
 - 📫 How to reach me **mattia.filardi@gmail.com**
 
